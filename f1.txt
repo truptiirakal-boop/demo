@@ -1,1 +1,2 @@
 hey we are learning git and github
+its a seconday of learning git commands
